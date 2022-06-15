@@ -16,14 +16,21 @@ This is a solution to the ZURIXI4G Training task.
 
 
 
+
 ## Screenshot
 DESKTOP-VIEW
 
-![](flexpage.png)
+
+
+![form-resp-desktop](https://user-images.githubusercontent.com/81003701/173790979-420bde6d-3ca7-4950-973f-3bb03d7cb0fc.png)
+
 
 MOBILE-VIEW
 
-![](gridpage.png)
+
+
+![form-resp-mobile](https://user-images.githubusercontent.com/81003701/173791317-1ee01ab5-56f1-474d-9936-ff5eabc7acb4.png)
+
 
 ### Links
 
