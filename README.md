@@ -22,14 +22,14 @@ DESKTOP-VIEW
 
 
 
-![form-resp-desktop](https://user-images.githubusercontent.com/81003701/173790979-420bde6d-3ca7-4950-973f-3bb03d7cb0fc.png)
+![form-resp-desktop](https://user-images.githubusercontent.com/81003701/173960414-4f8c7e4f-ae51-4874-926f-db18d757b79b.png)
 
 
 MOBILE-VIEW
 
 
 
-![form-resp-mobile](https://user-images.githubusercontent.com/81003701/173791317-1ee01ab5-56f1-474d-9936-ff5eabc7acb4.png)
+![form-resp-mobile](https://user-images.githubusercontent.com/81003701/173960450-290e84a0-227f-4a1b-8398-1e1428ce925b.png)
 
 
 ### Links
