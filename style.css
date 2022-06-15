@@ -66,6 +66,7 @@ form{
 input, button{
     border-radius: 5px;
 }
+
 input{
     height: 30px;
     margin-bottom: 20px;
@@ -76,6 +77,8 @@ input{
     font-size: 0.87em;
     font-weight: 500;
     color: hsl(249, 10%, 26%);
+    background-image: none;
+    transition: background-image 4s 2s ease-in, border-color .5s .5s linear, border-width .5s 1s;
 }
 
 ::placeholder{
@@ -83,12 +86,22 @@ input{
     font-size: 1em;
     font-weight: 500;
 }
+
+input:invalid{
+    background-image: url(./images/icon-error.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 95%;
+    border-color: hsl(0, 100%, 74%);
+}
+
 input:hover, input:active, input:focus{
     border: 1px grey solid;
 }
 
-input:invalid{
-    border: 1px hsl(0, 100%, 74%)  solid;
+input:valid{
+    border-color: rgb(9, 165, 56);
+    border-width: 2px;
 }
 
 button{
