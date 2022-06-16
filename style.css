@@ -7,7 +7,7 @@ body{
 }
 .container{
     width: 70%;
-    height: 500px;
+    height: 570px;
     margin: 80px auto 60px;
     display: flex;
 }
@@ -51,7 +51,7 @@ h1{
 .item2-2{
     width: 100%;
     background-color: white;
-    height: 480px;
+    height: 500px;
     box-sizing: border-box;
     border-bottom: 6px rgba(255, 17, 0, 0.7) solid;
 }
@@ -197,10 +197,10 @@ button:hover{
         line-height: 1.5em;
     }
     .item2-2{
-        height: 490px;
+        height: 520px;
     }
     .terms{
         letter-spacing: 0.07em;
-        padding: 5px 25px;
+        padding: 10px 25px;
     }
 }
