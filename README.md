@@ -34,7 +34,7 @@ MOBILE-VIEW
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://moidz.github.io/Registration-form-resp/
 
 ## My process
 
